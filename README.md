@@ -1,7 +1,7 @@
 # Brief_Calculatrice
 Vous devez faire une simple calculatrice.<br/>
 Fonction à utiliser "addEventListener".<br/>
-https://developer.mozilla.org/fr/docs/Web/Events/Creating_and_triggering_events
+https://developer.mozilla.org/fr/docs/Web/Events/Creating_and_triggering_events<br/>
 Vouc devez créer une fonction qui récupère l'identifiant au clique.<br/>
 Puis une fonction qui gère le calcul.<br/>
 L'utilisation du "switch" est recommandée.<br/>
