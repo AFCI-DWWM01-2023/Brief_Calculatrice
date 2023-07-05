@@ -6,3 +6,4 @@ Vouc devez créer une fonction qui récupère l'identifiant au clique.<br/>
 Puis une fonction qui gère le calcul.<br/>
 L'utilisation du "switch" est recommandée.<br/>
 Personnalisez votre calculatrice.<br/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
